@@ -1,1 +1,3 @@
-under development
+Usage:
+
+python3 batch_renamer.py
